@@ -1,6 +1,8 @@
-## Your Name
+## Kiki Dawson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I’ve always enjoyed the creativity involved in problem solving, which is why I gain the same type of satisfaction from mathematical and artistic subjects. For me coding is an amalgamation of the two.
+
+Tech is a developing sector and forever evolving. This means there will always be something to learn so there is no chance of becoming stagnant.
 
 ## Projects
 
@@ -11,19 +13,19 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Heritage Independent Living** (January 2019 to October 2020)  
+Consultant
 
-- Any experience relevent to software development
+- This was an admin heavy role due to the unsuitability of the company's CRM. I spent hours thinking of ways to make improve productivity by making the CRM better.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Casino Gold** (September 2016 to November 2017)  
+Manager
 
-- Any experience relevent to software development
+- After this job I decided that I will never again accept a job for a company or product I don't believe in. I didn't feel proud that I'd increased takings during my time manager as I knew this meant my customers were gambling more.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### This Skill
 
@@ -42,23 +44,40 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2020 to February 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Newham College (September 2017 - October 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Bespoke Tailoring
+- Tailoring is full of problem solving
+- I realised that to pursue a career as a tailor I'd have to make compromises, which would have left me unhappy so I decided to leave this as a hobby.
+
+#### University of the West of England, Bristol (UWE) (September 2011 to July 2014)
+
+- Mathematics BSc (hons)
+- Dissertation on network optimisation using AMPL (10,000 words)
+
+#### Central Saint Martins - University of the Arts, London (UAL) (September 2010 - July 2011)
+
+- Art & Design Foundation Diploma (Merit)
+- I thought I wanted to work in fashion but after 2 weeks in the fashion department I realised graphics was more suitable.
+
+#### Esher College (September 2008 - July 2010)
+
+- A Mathematics
+- B Fashion & Textiles
+- C Business Studies
+- C Psychology (AS)
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- 
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Sewing
