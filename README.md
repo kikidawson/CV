@@ -1,6 +1,6 @@
 ## Kiki Dawson
 
-I’ve always enjoyed the creativity involved in problem solving, which is why I gain the same type of satisfaction from mathematical and artistic subjects. For me coding is an amalgamation of the two.
+I’ve always enjoyed the creativity involved in problem solving, which is why I gain the same type of satisfaction from both mathematical and artistic subjects. For me coding is an amalgamation of the two.
 
 Tech is a developing sector and forever evolving. This means there will always be something to learn so there is no chance of becoming stagnant.
 
@@ -8,20 +8,35 @@ Tech is a developing sector and forever evolving. This means there will always b
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Book Me Up**            | A webapp where users can share books with their neighbours | MERN, Cypress, Mocha, Chai |
+| **Acebook** | A facebook clone | Rails, RSpec, React             |
 
 ## Experience
 
-**Heritage Independent Living** (January 2019 to October 2020)  
+**Heritage Independent Living** (November 2019 to October 2020)  
 Consultant
 
 - This was an admin heavy role due to the unsuitability of the company's CRM. I spent hours thinking of ways to make improve productivity by making the CRM better.
+- Consultant - liaise with both parties to place carers with clients based on personality, experience, qualifications, dates, location
+- Credit Control - as below
+- Administration - as below
+- Carer Recruitment - as below
+
+**Heritage Independent Living** (January 2019 to November 2020)  
+Administrator and Junior Consultant
+
+- Credit control – raise & chase invoices using Sage One, deal with queries, take payments (Stripe) & process direct debits (GoCardless)
+- Administrator – set agenda & take minutes, first point of call for clients & carer queries, answer emails, competitor analysis, update Capsule (CRM), responsible for pretty cash, update & chase carers for relevant documents, ensure consultants adhere to GDPR, research new processes & training courses, stock control of office supplies
+- Carer recruitment – initial interviews, vet documents, advise on DBS & training, write & post roles on Gumtree, liaise with Gumtree consultant to maximise hits
 
 **Casino Gold** (September 2016 to November 2017)  
 Manager
 
-- After this job I decided that I will never again accept a job for a company or product I don't believe in. I didn't feel proud that I'd increased takings during my time manager as I knew this meant my customers were gambling more.
+Small adult gaming centre managing a team of 5, reporting to owner.
+
+- Customer service – build & maintain good rapport with customers, general housekeeping, complaint handling
+- Administration – streamline paperwork & processes, assist with payroll, analyse statistics (e.g. how promotions effect conversions rate & footfall), provide support to the casino owner; diary management, book travel & accommodation, organise purchases
+- HR – first point of contact for all members of staff, train new starters, lead recruitment process (e.g. list new vacancies, conduct interviews)
 
 ## Skills
 
@@ -65,7 +80,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Central Saint Martins - University of the Arts, London (UAL) (September 2010 - July 2011)
 
 - Art & Design Foundation Diploma (Merit)
-- I thought I wanted to work in fashion but after 2 weeks in the fashion department I realised graphics was more suitable.
+- Final project on 3d typography and infrastructure
 
 #### Esher College (September 2008 - July 2010)
 
@@ -80,4 +95,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Hobbies
 
-Sewing
+I've recently finished a zine, which I created while completing the Makers bootcamp. Get in touch if you'd like a copy.
