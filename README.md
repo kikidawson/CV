@@ -63,8 +63,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, CSS, HTML
+- React, Bootstrap
+- RSpec, Jasmine, Cypress, Mocha, Chai
 
 #### Newham College (September 2017 - October 2018)
 
@@ -88,10 +89,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - B Fashion & Textiles
 - C Business Studies
 - C Psychology (AS)
-
-#### Any other qualifications
-
-- 
 
 ## Hobbies
 
