@@ -12,7 +12,8 @@ I enjoy the creativity involved in problem solving. I gain the same type of sati
 
 ## Experience
 
-**Heritage Independent Living** Introductory live-in care agency for the elderly
+####Heritage Independent Living
+Introductory live-in care agency for the elderly
 Consultant (November 2019 to October 2020)
 Administrator and Junior Consultant (January 2019 to November 2019)
 
@@ -23,14 +24,16 @@ Clients needs could change very suddenly so it was key that, as consultants, we 
 We found out that lots of errors were being made on our clients invoices so, in April 2019, we brought invoicing and credit control in-house and I was given sole responsibility. I streamlined the process to decrease the chances of human error, which led to complaints decreasing by a significant amount.
 - SageOne, Stipe, GoCardless
 
-**Charles Tyrwhitt** Menswear shop, Jermyn Street
+####Charles Tyrwhitt
+Menswear shop, Jermyn Street
 Part-time Sales Assistant (November 2017 to October 2018)
 
 I was working part-time while studying bespoke tailoring at college. I was employee of the month in August 2018, which I was awarded for positive attitude and boosting my colleagues morale.
 
 I was proud of the service I was able to provide to customers and had many returning clients as a result. I researched the products we sold and used facts about the fabric and cut, and the history of each piece to help customers find the perfect suit. I was able to get restocked and alterations completed quickly due to the good relationship I had with my colleagues.
 
-**Casino Gold** Small Adult Gaming Centre
+####Casino Gold
+Small Adult Gaming Centre
 Manager (May 2017 to November 2017)
 Floor Supervisor (September 2016 - May 2017)
 
@@ -40,12 +43,12 @@ When I arrived, all the machine checks were done by hand and recorded on paper. 
 
 Unfortunately, dealing with angry and upset customers was a daily part of this job. I honed a lot of my soft skills including giving bad news. I was always firm but stayed kind.
 
-**Chinese Educators**
+####Chinese Educators
 Au Pair (May 2016 - August 2016)
 
 I was a live-in English and maths tutor for an 8 year old girl in Beijing. I enjoyed learning Mandarin and having cooking lessons.
 
-**Travelling & Hospitality**
+####Travelling & Hospitality
 (February 2015 - May 2016)
 
 In Australia, I bought a van and converted it into a campervan. I stopped in various places and worked on farms, in restaurants, in bars, and as a receptionist of a hostel among other things. I added 37000kms to the clock and a year later sold it for $1300 more than I bought it for. Then flew to SE Asia and spent a few months travelling and diving before heading to China to be an au pair.
