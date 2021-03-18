@@ -21,8 +21,7 @@ Our CRM made it difficult to see when clients had gaps in their care plans, mean
 
 Clients needs could change very suddenly so it was key that, as consultants, we were in constant contact with each other. When we had to start working from home, the team began really struggling without our usual flow of information. My colleagues weren't confident with anything technical so I realised it was up to me to sort. I set up instant messaging, google docs (to replace our office whiteboard), conference calls, and zoom meetings. This worked so well the team aren't planning on going back into the office ever.
 
-We found out that lots of errors were being made on our clients invoices so, in April 2019, we brought invoicing and credit control in-house and I was given sole responsibility. I streamlined the process to decrease the chances of human error, which led to complaints decreasing by a significant amount.
-- SageOne, Stipe, GoCardless
+We found out that lots of errors were being made on our clients invoices so, in April 2019, we brought invoicing and credit control in-house and I was given sole responsibility. I streamlined the process to decrease the chances of human error, which led to complaints decreasing by a significant amount. Used; SageOne, Stipe, GoCardless
 
 #### Charles Tyrwhitt
 - Menswear shop, Jermyn Street
