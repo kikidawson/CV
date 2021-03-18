@@ -7,7 +7,7 @@ I enjoy the creativity involved in problem solving. I gain the same type of sati
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Book Me Up**            | A webapp where users can share books with their neighbours. Webcam can be used to scan the isbn of a book to be added to the bookshelf. Users can search for books by title, author or keyword. [See the repo](https://github.com/argy-bargy/book_swap) | MERN, Cypress, Mocha, Chai |
-| **Acebook** | A clone of a popular social media platform. It allows the user to post and like messages from other users. [See the repo](https://github.com/Will-Helliwell/acebook-on-the-rails) and [See it deployed](https://acebook-on-the-rails.herokuapp.com/) | Rails, RSpec, React             |
+| **Acebook** | A clone of a popular social media platform. It allows the user to post and like messages from other users. [See the repo](https://github.com/Will-Helliwell/acebook-on-the-rails) and [see it deployed](https://acebook-on-the-rails.herokuapp.com/) | Rails, RSpec, React             |
 | **MakersBnB** | A clone of a property rental website. Spaces can be posted and then requested by other users for specific dates. [See the repo](https://github.com/chrismabdo/makersbnb)| Ruby, RSpec             |
 
 ## Experience
@@ -98,5 +98,4 @@ I like finding the most efficient way to complete a task. I hadn't been hired to
 
 - I've recently finished a zine, which I created while completing the Makers bootcamp. If you'd like a copy, let me know and I'll post one to you. [ZINE](https://www.buymeacoffee.com/kikidaw)
 - I like to sew, mainly upcycling old and vintage clothing
-- I spent 2 years 
 - PADI Advanced & Rescue Scuba Diving
