@@ -33,7 +33,7 @@ I was working part-time while studying bespoke tailoring at college. I was emplo
 I was proud of the service I was able to provide to customers and had many returning clients as a result. I researched the products we sold and used facts about the fabric and cut, and the history of each piece to help customers find the perfect suit. I was able to get restocked and alterations completed quickly due to the good relationship I had with my colleagues.
 
 #### Casino Gold
-Small Adult Gaming Centre
+Small Adult Gaming Centre \n
 ***Manager*** (May 2017 to November 2017)
 ***Floor Supervisor*** (September 2016 - May 2017)
 
