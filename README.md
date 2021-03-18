@@ -1,61 +1,70 @@
 ## Kiki Dawson
 
-I’ve always enjoyed the creativity involved in problem solving, which is why I gain the same type of satisfaction from both mathematical and artistic subjects. For me coding is an amalgamation of the two.
-
-Tech is a developing sector and forever evolving. This means there will always be something to learn so there is no chance of becoming stagnant.
+I enjoy the creativity involved in problem solving. I gain the same type of satisfaction from both mathematical and artistic subjects; for me coding is an amalgamation of the two. I want to be continuously developing and evolving my coding skills and emotional intelligence. There is always something to learn and research in tech and I’d like to be part of that.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Book Me Up**            | A webapp where users can share books with their neighbours | MERN, Cypress, Mocha, Chai |
-| **Acebook** | A facebook clone | Rails, RSpec, React             |
+| **Book Me Up**            | A webapp where users can share books with their neighbours. Webcam can be used to scan the isbn of a book to be added to the bookshelf. Users can search for books by title, author or keyword. [Repo](https://github.com/argy-bargy/book_swap) | MERN, Cypress, Mocha, Chai |
+| **Acebook** | A clone of a popular social media platform. It allows the user to post and like messages from other users. [Repo](https://github.com/Will-Helliwell/acebook-on-the-rails) [Acebook](https://acebook-on-the-rails.herokuapp.com/) | Rails, RSpec, React             |
+| **MakersBnB** | A clone of a property rental website. Spaces can be posted and then requested by other users for specific dates. [Repo](https://github.com/chrismabdo/makersbnb)| Ruby, RSpec             |
 
 ## Experience
 
-**Heritage Independent Living** (November 2019 to October 2020)  
-Consultant
+**Heritage Independent Living** Introductory live-in care agency for the elderly
+Consultant (November 2019 to October 2020)
+Administrator and Junior Consultant (January 2019 to November 2019)
 
-- This was an admin heavy role due to the unsuitability of the company's CRM. I spent hours thinking of ways to make improve productivity by making the CRM better.
-- Consultant - liaise with both parties to place carers with clients based on personality, experience, qualifications, dates, location
-- Credit Control - as below
-- Administration - as below
-- Carer Recruitment - as below
+Our CRM made it difficult to see when clients had gaps in their care plans, meaning a client could be left without a carer. I didn't think that was a sensible or necessary risk. I started recording all my clients planned carers in excel so gaps couldn't be missed. This decreased the number of emergencies I had (carer needed within 2 weeks) so my director asked me to implement this for everyone.
 
-**Heritage Independent Living** (January 2019 to November 2020)  
-Administrator and Junior Consultant
+Clients needs could change very suddenly so it was key that, as consultants, we were in constant contact with each other. When we had to start working from home, the team began really struggling without our usual flow of information. My colleagues weren't confident with anything technical so I realised it was up to me to sort. I set up instant messaging, google docs (to replace our office whiteboard), conference calls, and zoom meetings. This worked so well the team aren't planning on going back into the office ever.
 
-- Credit control – raise & chase invoices using Sage One, deal with queries, take payments (Stripe) & process direct debits (GoCardless)
-- Administrator – set agenda & take minutes, first point of call for clients & carer queries, answer emails, competitor analysis, update Capsule (CRM), responsible for pretty cash, update & chase carers for relevant documents, ensure consultants adhere to GDPR, research new processes & training courses, stock control of office supplies
-- Carer recruitment – initial interviews, vet documents, advise on DBS & training, write & post roles on Gumtree, liaise with Gumtree consultant to maximise hits
+We found out that lots of errors were being made on our clients invoices so, in April 2019, we brought invoicing and credit control in-house and I was given sole responsibility. I streamlined the process to decrease the chances of human error, which led to complaints decreasing by a significant amount.
+- SageOne, Stipe, GoCardless
 
-**Casino Gold** (September 2016 to November 2017)  
-Manager
+**Charles Tyrwhitt** Menswear shop, Jermyn Street
+Part-time Sales Assistant (November 2017 to October 2018)
 
-Small adult gaming centre managing a team of 5, reporting to owner.
+I was working part-time while studying bespoke tailoring at college. I was employee of the month in August 2018, which I was awarded for positive attitude and boosting my colleagues morale.
 
-- Customer service – build & maintain good rapport with customers, general housekeeping, complaint handling
-- Administration – streamline paperwork & processes, assist with payroll, analyse statistics (e.g. how promotions effect conversions rate & footfall), provide support to the casino owner; diary management, book travel & accommodation, organise purchases
-- HR – first point of contact for all members of staff, train new starters, lead recruitment process (e.g. list new vacancies, conduct interviews)
+I was proud of the service I was able to provide to customers and had many returning clients as a result. I researched the products we sold and used facts about the fabric and cut, and the history of each piece to help customers find the perfect suit. I was able to get restocked and alterations completed quickly due to the good relationship I had with my colleagues.
+
+**Casino Gold** Small Adult Gaming Centre
+Manager (May 2017 to November 2017)
+Floor Supervisor (September 2016 - May 2017)
+
+The customer counter showed that footfall had increased during my time as manager. I had put some promotional incentives in place but the regular customers said they had started making more visits because they enjoyed the environment when I was around. This made me realise that my success was at the detriment of the customers and I couldn't stay much longer after that.
+
+When I arrived, all the machine checks were done by hand and recorded on paper. Unsurprisingly, this led to lots of errors and our result estimate was usually out by about £30 a week. I started recording everything in a spreadsheet and our estimates were only out by pennies.
+
+Unfortunately, dealing with angry and upset customers was a daily part of this job. I honed a lot of my soft skills including giving bad news. I was always firm but stayed kind.
+
+**Chinese Educators**
+Au Pair (May 2016 - August 2016)
+
+I was a live-in English and maths tutor for an 8 year old girl in Beijing. I enjoyed learning Mandarin and having cooking lessons.
+
+**Travelling & Hospitality**
+(February 2015 - May 2016)
+
+In Australia, I bought a van and converted it into a campervan. I stopped in various places and worked on farms, in restaurants, in bars, and as a receptionist of a hostel among other things. I added 37000kms to the clock and a year later sold it for $1300 more than I bought it for. Then flew to SE Asia and spent a few months travelling and diving before heading to China to be an au pair.
 
 ## Skills
 
-Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Emotional Intelligence
 
-#### This Skill
+I find emotions very interesting, both my own and others. During Makers, I realised how important reflecting is. I find that reflection helps remove the emotion from difficult situations so the facts can be focused on. This is particularly helpful when giving and receiving feedback, especially when emotionally invested in projects.
 
-- Experience
-- Achievements
-- Evidence
+I completed a 10 week empathy training course when I joined The Samaritans in October 2019. I had been volunteering as a listener since then but when COVID hit, I was unable to continue. This is something I will be starting again once I'm fully settled in Bristol. 
 
-#### Another Skill
+#### Growth Mindset
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I like not being the most knowledgeable one in the room because it means I'm able to learn and grow. I'm passionate about stretching myself. One of the reasons for getting into software engineering is because there will always be something to develop and explore. I like the idea that in 5 years I could be working on something that doesn't exist today.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Initiative
+
+I like finding the most efficient way to complete a task. I hadn't been hired to streamline processes but I saw inefficiencies that could easily be fixed. I came up with suggestions to improve them and, once approved, I put them into place. This increased accuracy of estimations at Casino Gold and decreased the number of complaints about invoicing errors at Heritage.
 
 ## Education
 
@@ -70,7 +79,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Newham College (September 2017 - October 2018)
 
 - Bespoke Tailoring
-- Tailoring is full of problem solving
+- Tailoring is full of precision and problem solving
 - I realised that to pursue a career as a tailor I'd have to make compromises, which would have left me unhappy so I decided to leave this as a hobby.
 
 #### University of the West of England, Bristol (UWE) (September 2011 to July 2014)
@@ -83,13 +92,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Art & Design Foundation Diploma (Merit)
 - Final project on 3d typography and infrastructure
 
-#### Esher College (September 2008 - July 2010)
-
-- A Mathematics
-- B Fashion & Textiles
-- C Business Studies
-- C Psychology (AS)
-
 ## Hobbies
 
-I've recently finished a zine, which I created while completing the Makers bootcamp. Get in touch if you'd like a copy.
+- I've recently finished a zine, which I created while completing the Makers bootcamp. If you'd like a copy, let me know and I'll post one to you. [ZINE](https://www.buymeacoffee.com/kikidaw)
+- I like to sew, mainly upcycling old and vintage clothing
+- I spent 2 years 
+- PADI Advanced & Rescue Scuba Diving
