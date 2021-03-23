@@ -1,6 +1,6 @@
 ## Kiki Dawson
 
-I enjoy the creativity involved in problem solving. I gain the same type of satisfaction from both mathematical and artistic subjects; for me coding is an amalgamation of the two. I want to be continuously developing and evolving my coding skills and emotional intelligence. There is always something to learn and research in tech and I’d like being part of that.
+I enjoy the creativity involved in problem solving. I gain the same type of satisfaction from both mathematical and artistic subjects; for me coding is an amalgamation of the two. I want to be continuously developing and evolving my coding skills and emotional intelligence. There is always something to learn and research in tech and I like being part of that.
 
 ## Skills
 
@@ -52,11 +52,11 @@ I was proud of the service I was able to provide to customers and had many retur
 - ***Manager*** (May 2017 to November 2017)
 - ***Floor Supervisor*** (September 2016 - May 2017)
 
-The customer counter showed that footfall had increased during my time as manager. I had put some promotional incentives in place but the regular customers said they had started making more visits because they enjoyed the environment when I was around. This made me realise that my success was at the detriment of the customers and I couldn't stay much longer after that.
+The customer counter showed that footfall had increased during my time as manager. I implemented some promotional incentives and increased customer engagement, which positively affected loyalty. Customers frequently mentioned that they thought I had improved the atmosphere on the shopfloor.
 
 When I arrived, all the machine checks were done by hand and recorded on paper. Unsurprisingly, this led to lots of errors and our result estimate was usually out by about £30 a week. I started recording everything in a spreadsheet and our estimates were only out by pennies.
 
-Unfortunately, dealing with angry and upset customers was a daily part of this job. I honed a lot of my soft skills including giving bad news. I was always firm but stayed kind.
+I am resilient and often used my empathy, patience and compassion when dealing with confrontation and conflict which was commonplace.
 
 #### Chinese Educators
 - ***Au Pair*** (May 2016 - August 2016)
