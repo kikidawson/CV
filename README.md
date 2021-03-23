@@ -73,6 +73,7 @@ In Australia, I bought a van and converted it into a campervan. I stopped in var
 ## Education
 
 #### Makers Academy (September 2020 to February 2021)
+16 week remote software engineering bootcamp.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
