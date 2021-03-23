@@ -1,6 +1,22 @@
 ## Kiki Dawson
 
-I enjoy the creativity involved in problem solving. I gain the same type of satisfaction from both mathematical and artistic subjects; for me coding is an amalgamation of the two. I want to be continuously developing and evolving my coding skills and emotional intelligence. There is always something to learn and research in tech and I’d like to be part of that.
+I enjoy the creativity involved in problem solving. I gain the same type of satisfaction from both mathematical and artistic subjects; for me coding is an amalgamation of the two. I want to be continuously developing and evolving my coding skills and emotional intelligence. There is always something to learn and research in tech and I’d like being part of that.
+
+## Skills
+
+#### Emotional Intelligence
+
+I find emotions very interesting, both my own and others. During Makers, I realised how important reflecting is. I find that reflection helps remove the emotion from difficult situations so the facts can be focused on. This is particularly helpful when giving and receiving feedback, especially when emotionally invested in projects.
+
+I completed a 10 week empathy training course when I joined The Samaritans in October 2019. I had been volunteering as a listener since then but when COVID hit, I was unable to continue. This is something I will be starting again once I'm fully settled in Bristol. 
+
+#### Growth Mindset
+
+I like not being the most knowledgeable one in the room because it means I'm able to learn and grow. I'm passionate about stretching myself. One of the reasons for getting into software engineering is because there will always be something to develop and explore. I like the idea that in 5 years I could be working on something that doesn't exist today.
+
+#### Initiative/Change Maker
+
+I like finding the most efficient way to complete a task. I hadn't been hired to streamline processes but I saw inefficiencies that could easily be fixed. I came up with suggestions to improve them and, once approved, I put them into place. This increased accuracy of estimations at Casino Gold and decreased the number of complaints about invoicing errors at Heritage.
 
 ## Projects
 
@@ -47,26 +63,12 @@ Unfortunately, dealing with angry and upset customers was a daily part of this j
 
 I was a live-in English and maths tutor for an 8 year old girl in Beijing. I enjoyed learning Mandarin and having cooking lessons.
 
-#### Travelling & Hospitality
-- (February 2015 - May 2016)
+I had to improve my non-verbal communication as the family I lived with had little English and I had even less Chinese. I quickly established a strong bond with the family. They ended up paying me double and offering me a visa extension.
+
+#### Travelling
+- ***Various Hospitality Jobs*** (February 2015 - May 2016)
 
 In Australia, I bought a van and converted it into a campervan. I stopped in various places and worked on farms, in restaurants, in bars, and as a receptionist of a hostel among other things. I added 37000kms to the clock and a year later sold it for $1300 more than I bought it for. Then flew to SE Asia and spent a few months travelling and diving before heading to China to be an au pair.
-
-## Skills
-
-#### Emotional Intelligence
-
-I find emotions very interesting, both my own and others. During Makers, I realised how important reflecting is. I find that reflection helps remove the emotion from difficult situations so the facts can be focused on. This is particularly helpful when giving and receiving feedback, especially when emotionally invested in projects.
-
-I completed a 10 week empathy training course when I joined The Samaritans in October 2019. I had been volunteering as a listener since then but when COVID hit, I was unable to continue. This is something I will be starting again once I'm fully settled in Bristol. 
-
-#### Growth Mindset
-
-I like not being the most knowledgeable one in the room because it means I'm able to learn and grow. I'm passionate about stretching myself. One of the reasons for getting into software engineering is because there will always be something to develop and explore. I like the idea that in 5 years I could be working on something that doesn't exist today.
-
-#### Initiative
-
-I like finding the most efficient way to complete a task. I hadn't been hired to streamline processes but I saw inefficiencies that could easily be fixed. I came up with suggestions to improve them and, once approved, I put them into place. This increased accuracy of estimations at Casino Gold and decreased the number of complaints about invoicing errors at Heritage.
 
 ## Education
 
