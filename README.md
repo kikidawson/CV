@@ -50,7 +50,7 @@ I was proud of the service I was able to provide to customers and had many retur
 #### Casino Gold
 - Small Adult Gaming Centre
 - ***Manager*** (May 2017 to November 2017)
-- ***Floor Supervisor*** (September 2016 - May 2017)
+- ***Floor Supervisor*** (September 2016 - January 2017)
 
 The customer counter showed that footfall had increased during my time as manager. I implemented some promotional incentives and increased customer engagement, which positively affected loyalty. Customers frequently mentioned that they thought I had improved the atmosphere on the shopfloor.
 
