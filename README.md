@@ -6,27 +6,36 @@ I enjoy the creativity involved in problem solving. I gain the same type of sati
 
 #### Emotional Intelligence
 
-I find emotions very interesting, both my own and others. During Makers, I realised how important reflecting is. I find that reflection helps remove the emotion from difficult situations so the facts can be focused on. This is particularly helpful when giving and receiving feedback, especially when emotionally invested in projects.
-
-I completed a 10 week empathy training course when I joined The Samaritans in October 2019. I had been volunteering as a listener since then but when COVID hit, I was unable to continue. This is something I will be starting again once I'm fully settled in Bristol. 
+I find emotions very interesting, both my own and others. During my career in software engineering, I have realised how important reflecting is. I find that reflection helps remove the emotion from difficult situations so the facts can be focused on. This is particularly helpful when giving and receiving feedback, especially when emotionally invested in projects.
 
 #### Growth Mindset
 
 I like not being the most knowledgeable one in the room because it means I'm able to learn and grow. I'm passionate about stretching myself. One of the reasons for getting into software engineering is because there will always be something to develop and explore. I like the idea that in 5 years I could be working on something that doesn't exist today.
 
-#### Initiative/Change Maker
-
-I like finding the most efficient way to complete a task. I hadn't been hired to streamline processes but I saw inefficiencies that could easily be fixed. I came up with suggestions to improve them and, once approved, I put them into place. This increased accuracy of estimations at Casino Gold and decreased the number of complaints about invoicing errors at Heritage.
+## Qualifications
+January 2023 - AWS Certified Solutions Architect Associate
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Book Me Up**            | A webapp where users can share books with their neighbours. Webcam can be used to scan the isbn of a book to be added to the bookshelf. Users can search for books by title, author or keyword. [See the repo](https://github.com/argy-bargy/book_swap) | MERN, Cypress, Mocha, Chai |
-| **Acebook** | A clone of a popular social media platform. It allows the user to post and like messages from other users. [See the repo](https://github.com/Will-Helliwell/acebook-on-the-rails) and [see it deployed](https://acebook-on-the-rails.herokuapp.com/) | Rails, RSpec, React             |
-| **MakersBnB** | A clone of a property rental website. Spaces can be posted and then requested by other users for specific dates. [See the repo](https://github.com/chrismabdo/makersbnb)| Ruby, RSpec             |
+| **Contact Me Form** | A little contact me form app that I'm using to mess around with platform and devOps practises. [See the repo](https://github.com/kikidawson/tf-aws-template-contact-form) | AWS, terraform, GitHub actions. |
+| **Book Me Up**            | Makers Bootcamp final project: A webapp where users can share books with their neighbours. Webcam can be used to scan the isbn of a book to be added to the bookshelf. Users can search for books by title, author or keyword. [See the repo](https://github.com/argy-bargy/book_swap) | MERN, Cypress, Mocha, Chai |
 
 ## Experience
+
+#### Deloitte UK (Consulting)
+- ***Consultant Platform Engineer*** (April 2022 - November 2023)
+- ***Analyst Platform Engineer*** (April 2021 - April 2022)
+
+##### FS app:
+Built the infrastructure for a global FS app. Created re-usable terraform modules. Used github actions for CICD pipelines. Encouraged clean coding with pre-commit config. Presented ideas at TDA meetings. Demoed cool stuff to the global team. Mentored junior colleagues and new joiners. ***Tech;*** AWS, Terraform, Terragrunt, Argo CD, GitHub Actions, Jira.
+
+##### Public sector:
+Maintained infrastructure. Large scale migration from an internal AWS organisation to public sector AWS organisation. Documentation for handing over to new supplier. ***Tech;*** AWS, Terraform, Terragrunt, Azure DevOps, Jira
+
+##### Personal development:
+Kata Club - I set up and ran a fortnightly lunch club where we would attack some kata's from codewars then share our different solutions. The goal was to get engineers to meet and give an opportunity to have fun with code.
 
 #### Heritage Independent Living
 - Introductory live-in care agency for the elderly
@@ -99,6 +108,6 @@ In Australia, I bought a van and converted it into a campervan. I stopped in var
 
 ## Hobbies
 
-- I've recently finished a zine, which I created while completing the Makers bootcamp. If you'd like a copy, let me know and I'll post one to you. [ZINE](https://www.buymeacoffee.com/kikidaw)
-- I like to sew, mainly upcycling old and vintage clothing
+- Hiking, biking, and general exploring
+- I like to sew, mainly upcycling old and vintage clothing, and knit/crochet
 - PADI Advanced & Rescue Scuba Diving
