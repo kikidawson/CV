@@ -1,6 +1,6 @@
 ## Kiki Dawson
 
-Platform Engineer with three years experience and an AWS Solutions Architect Associate certification. Looking to join a team in need of help creating and improving infrastructure as code, devops principals and pipelines, and cloud systems. Recognised for exceptional mentoring abilities and ability to maintain high team morale.
+Platform Engineer with three years experience and an AWS Solutions Architect Associate certification. Looking to join a team in need of help creating and improving infrastructure as code, devops principles and pipelines, and cloud systems. Recognised for exceptional mentoring abilities and ability to maintain high team morale.
 
 ## Qualifications
 - AWS Solutions Architect Associate certification (January 2023)
@@ -8,16 +8,15 @@ Platform Engineer with three years experience and an AWS Solutions Architect Ass
 
 ## Employment History
 ### Deloitte UK (Consulting)
-- Platform Engineer (April 2022 - November 2023)
-- Junior Platform Engineer (April 2021 - April 2022)
 #### Global Financial Services App (September 2022 - November 2023)
-- Delivered engaging project demonstrations to global team, recieving positive feedback from both technical and non-technical team members.
+- Delivered engaging project demonstrations to global team, receiving positive feedback from both technical and non-technical team members.
 - Earned a reputation as go-to person within the team for help with Terraform. Skilled at adding complex functionality to re-usable Terraform modules while maintaining readability.
 - Received praise for natural mentorship abilities, fostering a culture of continuous learning and improvement by being genuinely excited about learning.
 - Created pipelines to support DevOps best practices. For example, automating PR checks that run linters, formatters, and security scans, to increase efficiency and ensure adherence to ways of working.
 - Led initiative to streamline client onboarding process, architecting and implementing user-friendly Terraform modules and clear documentation. These efforts enabled non-technical users to deploy a customised AWS Organization with minimal code changes, significantly reducing margin for human error, onboarding time, and complexity.
 - **MAIN TECH;** AWS, GitHub Actions, Terraform, ArgoCD, ArgoWorkflows, Jira
 #### COVID Response Project (April 2021 - September 2022)
+- Promotion from Analyst to Consultant in April 2022
 - Reviewed and approved Terraform plans for deployment to the production environment.
 - Involved in the successful migration of a serverless COVID response project to a new AWS account, completing over 6 cutovers and without any downtime.
 - Improved team dynamics by working with the scrum master to enhance the environment for retrospectives, resulting in increased participation and enjoyment among team members.
@@ -35,7 +34,7 @@ Platform Engineer with three years experience and an AWS Solutions Architect Ass
 ## Education
 
 #### Software Engineering Bootcamp at Makers Academy (October 2020 to February 2021)
-- Completed 16-weeks bootcamp focused on developing self-learning skills and perparing for a future of continuous development.
+- Completed 16-weeks bootcamp focused on developing self-learning skills and preparing for a future of continuous development.
 - Proficiency in various technologies and methodologies including; TDD, agile methodologies, programming languages (Ruby, JavaScript), Databases (Postgres, MongoDB), testing frameworks (RSpec, Jasmine, Cypress, Mocha, Chai).
 
 #### Mathematics BSc (Hons) at University of the West of England, Bristol (UWE) (September 2011 to July 2014)
@@ -51,6 +50,7 @@ Platform Engineer with three years experience and an AWS Solutions Architect Ass
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Contact Me Form** | A simple web app to practice implementing devops best practices and creating Terraform modules. [See the repo](https://github.com/kikidawson/tf-aws-template-contact-form) | AWS, terraform, GitHub actions. |
+| **Book Me Up** | A web application to allow users to offer books to share with the community. Created as final project for Makers bootcamp. [See the repo](https://github.com/argy-bargy/book_swap) | React, NodeJS, Express, MongoDB, Atom, VSCode. |
 
 ## Hobbies
 
